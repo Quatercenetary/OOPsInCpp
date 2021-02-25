@@ -1,4 +1,4 @@
-# OOPsInCpp
+# OOPsInCPP
 This program displays entered time in HH:MM:SS format and in seconds
 
 
